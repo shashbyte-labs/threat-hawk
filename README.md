@@ -1,1 +1,3 @@
-# threat-hawk
+ThreatHawk
+
+An open-source, beginner-friendly Intrusion Detection System for Java/Spring Boot applications. ThreatHawk monitors HTTP requests for suspicious patterns (such as repeated failed logins, SQL injection attempts, large payloads, or high request rates) and raises alerts when potential attacks are detected. It can be integrated directly into a Spring Boot app or run as a standalone service, and it uses only free tools (OpenJDK, Maven/Gradle, Git, and an embedded H2 or MySQL database).
